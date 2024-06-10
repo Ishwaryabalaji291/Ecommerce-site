@@ -18,7 +18,7 @@ export default function Darkmode() {
 
       <img
         src={Switch}
-        alt="Switch"
+        alt="switch"
         className="w-10 cursor-pointer drop-shadow[1px_1px_1px_rgba(0,0,0,0.1)] transition-all duration-300"
       />
     </div>
