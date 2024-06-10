@@ -53,7 +53,7 @@ const productsData = [
 
 export default function Products() {
   const handleViewAllButtonClick = () => {
-    console.log("Here is latest collections");
+    alert("Here is latest collections");
   };
   return (
     <div className="mt-14 mb-12">
